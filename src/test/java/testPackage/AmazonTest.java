@@ -9,7 +9,7 @@ public class AmazonTest {
 
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\gargi\\Downloads\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://www.amazon.com/");
+		driver.get("https://www.amazon.com/"); //go to the URL
 	
 	}
 
